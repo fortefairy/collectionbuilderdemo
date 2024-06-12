@@ -30,7 +30,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # PEOPLE PAGE
 #
-people-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+people-fields: people; # set the field to be featured in the cloud (if left blank, none will be generated)
 people-min: 1 # min size for subject cloud, too many terms = slow load time!
 people-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
