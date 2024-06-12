@@ -1,8 +1,8 @@
 ---
-# find and count unique people used in the metadata
+# find all unique people used in the metadata
 ---
 {%- if site.data.theme.people-fields -%}
-{%- assign cloud-fields = site.data.theme.people-fields | split: ";" -%}
+{%- assign cloud-fields = site.data.theme.subjects-fields | split: ";" -%}
 {% comment %} Capture all cloud terms {% endcomment %} 
 {%- assign raw-terms = "" -%}
 {%- for c in cloud-fields -%}
@@ -15,7 +15,7 @@
 {%- assign terms = terms | split: ";" | sort -%}
 {%- assign uniqueTerms = terms | uniq | sort -%}
 { "people": [
-    {% for u in uniqueTerms %}{% assign count = terms | where_exp: 'item', 'item == u' | size %}{ "people": {{ u | jsonify }}, "count": {{ count }}, "link": {{ u | url_param_escape | prepend: '/browse.html#' | absolute_url | jsonify }} }{% unless forloop.last %},
+    {% for u in uniqueTerms %}{% assign count = terms | where_exp: 'item', 'item == u' | size %}{ "people" : {{ u | jsonify }}, "count" : {{ count }}, "link" : {{ u | url_param_escape | prepend: '/browse.html#' | absolute_url | jsonify }} }{% unless forloop.last %},
     {% endunless %}{% endfor %}
 ]
 }{%- endif -%}

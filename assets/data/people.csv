@@ -1,8 +1,8 @@
 ---
-# find and count unique people used in the metadata
+# find all unique people used in the metadata
 ---
 {%- if site.data.theme.people-fields -%}
-{%- assign cloud-fields = site.data.theme.people-fields | split: ";" -%}
+{%- assign cloud-fields = site.data.theme.subjects-fields | split: ";" -%}
 {% comment %} Capture all cloud terms {% endcomment %} 
 {%- assign raw-terms = "" -%}
 {%- for c in cloud-fields -%}
