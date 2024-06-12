@@ -17,4 +17,4 @@ This readme file was created June 11, 2024 by Taylor Faires
 ## DATA-SPECIFIC INFORMATION
 - Number of columns:
 - Number of rows:
-- Column list:
+- Column list:.
