@@ -7,7 +7,7 @@
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' | where_exp: 'item','item.parentid == nil' -%}
 {% endif %}
 {%- assign items = items | where_exp: 'item', 'item.objectid != nil' | where_exp: 'item','item.latitude' -%}
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.location contains "West"' -%}
+
 {%- assign fields = site.data.config-map -%}
 <!-- load leaflet dependencies -->
 <script src="{{ '/assets/lib/leaflet/leaflet.js' | relative_url }}"></script>
@@ -161,12 +161,11 @@
         layer.bindPopup(popupTemplate);
     }
     /* function to add objects to map */
-    function objectMarkers(feature,latlng){
-   var marker = new L.CircleMarker(latlng, {
-             radius: 3,
-              color: 'black',
-             alt: feature.properties.title,
-        });
+    function objectMarkers(feature,latlng) {
+        var marker = L.marker(latlng, {alt: feature.properties.title});
+        {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
+        return marker;
+    }
 
     /* use geoJson features to add objects to map */
     var mapFeatures = L.geoJson(geodata, {
