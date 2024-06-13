@@ -1,6 +1,6 @@
 .grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
+  display: flex-grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
   padding: 10px;
 }
@@ -12,6 +12,6 @@
 }
 
 .image-grid {
-    width: 80%;
+    width: 200px;
     height: 70%;
 }

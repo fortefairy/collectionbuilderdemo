@@ -43,8 +43,9 @@ permalink: /people.html
   <div class="grid-item">
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bessiesmith3.jpg/1024px-Bessiesmith3.jpg" alt="Bessie Smith" class="image-grid"/>
   			<br>Bessie Smith</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/1024px-Duke_Ellington_-_publicity.JPG" alt="Duke Ellington" class="image-grid"/>Leslie Odom Jr.</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/1024px-Duke_Ellington_-_publicity.JPG" alt="Duke Ellington" class="image-grid"/>Jessie Redmon Fauset</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/1024px-Duke_Ellington_-_publicity.JPG" alt="Duke Ellington" class="image-grid"/>Pearl Bailey</div>
+  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Negro_Poets_and_Their_Poems-0182.jpg" alt="Jessie Redmon Fauset" class="image-grid"/>
+  	<br>Jessie Redmon Fauset</div>
+  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pearl_Bailey_-_publicity.jpg" alt="Pear Bailey" class="image-grid"/>
+  	<br>Pearl Bailey</div>
 </div>
 
