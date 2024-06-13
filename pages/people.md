@@ -7,7 +7,6 @@ permalink: /people.html
 # a cloud visualization will be added below the content in this file
 ---
 
-## Browse People
+## Famous Philadelphians in the Arts
 
-Use this word cloud visualization to browse people.
-Word size is determined by frequency and all words link to a corresponding collection search.
+{% include feature/button.html text="Billie Holiday" link="https://fortefairy.github.io/collectionbuilderdemo/billieholiday.html#billie%20holiday/" color="success" %}
