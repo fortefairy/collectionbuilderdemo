@@ -47,5 +47,9 @@ permalink: /people.html
   	<br>Jessie Redmon Fauset</div>
   <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pearl_Bailey_-_publicity.jpg" alt="Pear Bailey" class="image-grid"/>
   	<br>Pearl Bailey</div>
+  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Leslie_Odom_Jr._Philanthropy_Summit_2016_02.30_%28cropped%29.jpg" alt = "Leslie Odom Jr" class="image-grid"/>
+  	<br>Leslie Odom Jr.</div>
+  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/en/9/96/Publicity_Photo_of_Samm-Art_Williams.jpg" alt = "Samm Art Williams" class="image-grid"/>
+  	<br>Samm-Art Williams</div>	
 </div>
 
