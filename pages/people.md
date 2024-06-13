@@ -6,6 +6,16 @@ permalink: /people.html
 # leave cloud-fields as "site.data.theme.subjects-fields"
 # a cloud visualization will be added below the content in this file
 ---
+<style> 
+.grid-container {
+	display: inline-grid;
+}
+
+.grid-container {
+	display: grid;
+gap: 50px;
+}
+</style>
 
 ## Famous Philadelphians in the Arts
 
