@@ -13,7 +13,7 @@ permalink: /people.html
   <div class="grid-item">
         <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#W.%20E.%20B.%20DuBois'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/>
-  			<br>W. E. B. DuBois</a></div>
+  			<br><h3>W. E. B. DuBois<h3></a></div>
   <div class="grid-item">
   		<a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Marian%20Anderson'>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
@@ -27,7 +27,7 @@ permalink: /people.html
   		<img src="https://live.staticflickr.com/129/362094253_9cd7b022ce_z.jpg" alt="Charles Mingus" class="image-grid"/>
   			<br>Charles Mingus</a></div>
   <div class="grid-item">
-    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Dizzyy%20Gilespie'>
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Dizzy%20Gilespie'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Portrait_of_Dizzy_Gillespie%2C_New_York%2C_N.Y.%2C_ca._May_1947_%28cropped%29.jpg/1024px-Portrait_of_Dizzy_Gillespie%2C_New_York%2C_N.Y.%2C_ca._May_1947_%28cropped%29.jpg" alt="Dizzy Gilespie" class="image-grid"/>
 		  	<br>Dizzy Gillespie</a></div>
   <div class="grid-item">
@@ -54,13 +54,21 @@ permalink: /people.html
     <a href='https://fortefairy.github.io/collectionbuilderdemo/browse.html#Bessie%20Smith'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bessiesmith3.jpg/1024px-Bessiesmith3.jpg" alt="Bessie Smith" class="image-grid"/>
   			<br>Bessie Smith</a></div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Negro_Poets_and_Their_Poems-0182.jpg" alt="Jessie Redmon Fauset" class="image-grid"/>
-  	<br>Jessie Redmon Fauset</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pearl_Bailey_-_publicity.jpg" alt="Pear Bailey" class="image-grid"/>
-  	<br>Pearl Bailey</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Leslie_Odom_Jr._Philanthropy_Summit_2016_02.30_%28cropped%29.jpg" alt = "Leslie Odom Jr" class="image-grid"/>
-  	<br>Leslie Odom Jr.</div>
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/en/9/96/Publicity_Photo_of_Samm-Art_Williams.jpg" alt = "Samm Art Williams" class="image-grid"/>
-  	<br>Samm-Art Williams</div>	
+  <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Jessie%20Redmon%20Fauset'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Negro_Poets_and_Their_Poems-0182.jpg" alt="Jessie Redmon Fauset" class="image-grid"/>
+  	<br>Jessie Redmon Fauset</a></div>
+  <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Pearl%20Bailey'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pearl_Bailey_-_publicity.jpg" alt="Pear Bailey" class="image-grid"/>
+  	<br>Pearl Bailey</a></div>
+  <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Lesie%20Odom%20Jr'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Leslie_Odom_Jr._Philanthropy_Summit_2016_02.30_%28cropped%29.jpg" alt = "Leslie Odom Jr" class="image-grid"/>
+  	<br>Leslie Odom Jr.</a></div>
+  <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Samm-Art%20Williams'>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/96/Publicity_Photo_of_Samm-Art_Williams.jpg" alt = "Samm Art Williams" class="image-grid"/>
+  	<br>Samm-Art Williams</a></div>	
 </div>
 
