@@ -10,10 +10,13 @@ permalink: /people.html
 ## Famous Philadelphians in the Arts
 
 <div class="grid-container">
-  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois"/> W. E. B. DuBois</div>
+  <div class="grid-item">
+  	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/> W. E. B. DuBois</div>
   <div class="grid-item">Marian Anderson</div>
+  	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
   <div class="grid-item">Alain Leroy Locke</div>
-  <div class="grid-item">Charles Mingus</div>
+  <div class="grid-item">
+  	<img src="https://live.staticflickr.com/129/362094253_9cd7b022ce_z.jpg" alt="Charles Mingus" class="image-grid"/>Charles Mingus</div>
   <div class="grid-item">Dizzy Gillespie</div>
   <div class="grid-item">Duke Ellington</div>
   <div class="grid-item">Paul Robeson</div>
