@@ -32,15 +32,3 @@ $theme-colors: map-merge(
 
 @import "base", "pages", "custom";
 
-
-/* grid layout */
-
-
-.grid-container {
-  display: inline-grid;
-}
-
-.grid-container {
-  display: grid;
-  gap: 50px;
-}
