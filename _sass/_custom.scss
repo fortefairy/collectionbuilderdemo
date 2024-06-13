@@ -2,7 +2,6 @@
   display: grid;
   background-color: #f6f1f1;
   grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
   padding: 10px;
 }
 
@@ -10,10 +9,10 @@
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
-  background-color: #a59888;
+  background-color: #e0dad3;
 }
 
 .image-grid {
-    width: 200px;
+    width: 250px;
     height: 70%;
 }
