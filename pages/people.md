@@ -11,14 +11,17 @@ permalink: /people.html
 
 <div class="grid-container">
   <div class="grid-item">
+        <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#W.%20E.%20B.%20DuBois'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/>
-  			<br>W. E. B. DuBois</div>
+  			<br>W. E. B. DuBois</a></div>
   <div class="grid-item">
-  		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
-  			<br>Marian Anderson</div>
+  		<a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Marian%20Anderson'>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
+  			<br>Marian Anderson</a></div>
   <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Alain%20LeRoy%20Locke'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Alain_LeRoy_Locke_cr.jpg" alt = "Alain LeRoy Locke" class="image-grid"/>
-  			<br>Alain Leroy Locke</div>
+  			<br>Alain Leroy Locke</a></div>
   <div class="grid-item">
   		<img src="https://live.staticflickr.com/129/362094253_9cd7b022ce_z.jpg" alt="Charles Mingus" class="image-grid"/>
   			<br>Charles Mingus</div>
@@ -35,8 +38,9 @@ permalink: /people.html
   		<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Supremes_1966.JPG" alt="The Supremes" class="image-grid"/>
   			<br>The Supremes</div>
   <div class="grid-item">
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Billie%20Holiday'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Billie_Holiday%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28William_P._Gottlieb_04251%29.jpg/1280px-Billie_Holiday%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28William_P._Gottlieb_04251%29.jpg" alt="Billie Holiday" class="image-grid"/>
-  			<br>Billie Holiday</div>
+  			<br>Billie Holiday</a></div>
   <div class="grid-item">
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/John_Coltrane_1963_cropped_ver2.jpg/1024px-John_Coltrane_1963_cropped_ver2.jpg" alt="John Coltrane" class="image-grid"/>
   			<br>John W. Coltrane</div>
