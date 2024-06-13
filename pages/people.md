@@ -13,7 +13,7 @@ permalink: /people.html
   <div class="grid-item">
         <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#W.%20E.%20B.%20DuBois'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/>
-  			<br><h3>W. E. B. DuBois<h3></a></div>
+  			<br><h3>W. E. B. DuBois</h3></a></div>
   <div class="grid-item">
   		<a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Marian%20Anderson'>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
