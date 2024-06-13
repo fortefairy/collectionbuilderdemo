@@ -10,14 +10,23 @@ permalink: /people.html
 ## Famous Philadelphians in the Arts
 
 <div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>
+  <div class="grid-item">W. E. B. DuBois</div>
+  <div class="grid-item">Marian Anderson</div>
+  <div class="grid-item">Alain Leroy Locke</div>
+  <div class="grid-item">Charles Mingus</div>
+  <div class="grid-item">Dizzy Gillespie</div>
+  <div class="grid-item">Duke Ellington</div>
+  <div class="grid-item">Paul Robeson</div>
+  <div class="grid-item">The Supremes</div>
+  <div class="grid-item">Billie Holiday</div>
+  <div class="grid-item">John W. Coltrane</div>
+  <div class="grid-item">Bessie Smith</div>
+  <div class="grid-item">Leslie Odom Jr.</div>
+  <div class="grid-item">Jessie Redmon Fauset</div>
+  <div class="grid-item">Pearl Bailey</div>
+  <div class="grid-item">Duke Ellington</div>
+
+
+
 </div>
 
