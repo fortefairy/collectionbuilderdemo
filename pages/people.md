@@ -10,7 +10,7 @@ permalink: /people.html
 ## Famous Philadelphians in the Arts
 
 <div class="grid-container">
-  <div class="grid-item">W. E. B. DuBois</div>
+  <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois"/> W. E. B. DuBois</div>
   <div class="grid-item">Marian Anderson</div>
   <div class="grid-item">Alain Leroy Locke</div>
   <div class="grid-item">Charles Mingus</div>
