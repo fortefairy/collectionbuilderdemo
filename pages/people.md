@@ -10,7 +10,6 @@ permalink: /people.html
 ## Famous Philadelphians in the Arts
 
 <div class="grid-container">
-  <a href="http://google.com">
   <div class="grid-item">
   		<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/>
   			<br>W. E. B. DuBois</div></wrap>
@@ -43,8 +42,8 @@ permalink: /people.html
   			<br>John W. Coltrane</div>
   <div class="grid-item">
     <a href='https://fortefairy.github.io/collectionbuilderdemo/browse.html#Bessie%20Smith'>
-  		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bessiesmith3.jpg/1024px-Bessiesmith3.jpg" alt="Bessie Smith" class="image-grid"/></a>
-  			<br>Bessie Smith</div>
+  		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bessiesmith3.jpg/1024px-Bessiesmith3.jpg" alt="Bessie Smith" class="image-grid"/>
+  			<br>Bessie Smith</div></a>
   <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Negro_Poets_and_Their_Poems-0182.jpg" alt="Jessie Redmon Fauset" class="image-grid"/>
   	<br>Jessie Redmon Fauset</div>
   <div class="grid-item"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pearl_Bailey_-_publicity.jpg" alt="Pear Bailey" class="image-grid"/>
