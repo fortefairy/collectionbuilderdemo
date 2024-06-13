@@ -13,7 +13,7 @@ permalink: /people.html
   <div class="grid-item">
         <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#W.%20E.%20B.%20DuBois'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%28cropped%29.jpg" alt = "W. E. B. DuBois" class="image-grid"/>
-  			<br>W. E. B. DuBois<</a></div>
+  			<br>W. E. B. DuBois</a></div>
   <div class="grid-item">
   		<a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Marian%20Anderson'>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/1024px-Marian_Anderson.jpg" alt = "Marian Anderson" class="image-grid"/>
@@ -27,7 +27,7 @@ permalink: /people.html
   		<img src="https://live.staticflickr.com/129/362094253_9cd7b022ce_z.jpg" alt="Charles Mingus" class="image-grid"/>
   			<br>Charles Mingus</a></div>
   <div class="grid-item">
-    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Dizzy%20Gilespie'>
+    <a href = 'https://fortefairy.github.io/collectionbuilderdemo/browse.html#Dizzy%20Gillespie'>
   		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Portrait_of_Dizzy_Gillespie%2C_New_York%2C_N.Y.%2C_ca._May_1947_%28cropped%29.jpg/1024px-Portrait_of_Dizzy_Gillespie%2C_New_York%2C_N.Y.%2C_ca._May_1947_%28cropped%29.jpg" alt="Dizzy Gilespie" class="image-grid"/>
 		  	<br>Dizzy Gillespie</a></div>
   <div class="grid-item">
